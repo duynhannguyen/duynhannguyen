@@ -5,10 +5,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynhannguyen&layout=compact&card_width=320&hide_progress=true" />
 </a>
-<p text-align="center" >
-  
+<div text-align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=duynhannguyen&theme=catppuccin-mocha&hide_total_contributions=true" alt="GitHub Streak" /></a>
-</p>
+</div>
 
 
 <!--
