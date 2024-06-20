@@ -1,11 +1,14 @@
 ## Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duynhannguyen&show_icon=true&show_icons=true&theme=radical&hide_rank=true&card_width=200" />
+<div style="margin-bottom:50px" align="center" > 
+<a href="#" title="duynhannguyen" style="max-width: 100%" >
+  <img width=425   src="https://github-readme-stats.vercel.app/api?username=duynhannguyen&show_icon=true&theme=radical&hide_rank=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynhannguyen&layout=compact&card_width=320&hide_progress=true" />
+<a href="#" title="duynhannguyen" style="max-width: 100%" >
+  <img width=355 src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynhannguyen&layout=compact" />
 </a>
-<p margin-top="15px" align="center">
+</div>
+<br>
+<p  align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=duynhannguyen&theme=catppuccin-mocha&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
 
