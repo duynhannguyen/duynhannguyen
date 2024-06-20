@@ -1,11 +1,11 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duynhannguyen&show_icon=true&show_icons=true&theme=radical&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duynhannguyen&show_icon=true&show_icons=true&theme=radical&hide_rank=true&card_width=200" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duynhannguyen&layout=compact&card_width=320&hide_progress=true" />
 </a>
-<p align="center">
+<p margin-top="15px" align="center">
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=duynhannguyen&theme=catppuccin-mocha&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
 
