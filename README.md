@@ -8,6 +8,9 @@
 <div text-align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=duynhannguyen&theme=catppuccin-mocha&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </div>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
 
 
 <!--
