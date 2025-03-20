@@ -13,7 +13,7 @@ Hello 👋, I'm Nguyễn Duy Nhân
 </div>
 <br>
 <p  align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=duynhannguyen&theme=catppuccin-mocha&hide_total_contributions=true" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=duynhannguyen&theme=catppuccin-mocha&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 <br>
 <h3>Languages and Tools:</h3>
